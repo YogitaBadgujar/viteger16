@@ -1,0 +1,10 @@
+<html>
+<head><center>Task></center></head>
+<body>
+<form>
+<fieldset>Enter Name : <input type="text" name="name"><br><br>
+Enter Email : <input type="email" name="email"><br><br>
+Enter pass: <input type="password" name="password"><br><br>
+<input type="submit"></fieldset>
+</form></body>
+</html>
