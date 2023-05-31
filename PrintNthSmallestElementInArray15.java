@@ -46,6 +46,8 @@ public class PrintNthSmallestElementInArray15
 			}
 		}
 		
+		System.out.println("Hii eclipse");
+		
 		
 		
 		
